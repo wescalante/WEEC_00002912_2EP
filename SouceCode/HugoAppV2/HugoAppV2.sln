@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugoAppV2", "HugoAppV2.csproj", "{98EBE19E-CB86-4B84-ACA4-0ACB373F8612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EBE19E-CB86-4B84-ACA4-0ACB373F8612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EBE19E-CB86-4B84-ACA4-0ACB373F8612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EBE19E-CB86-4B84-ACA4-0ACB373F8612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EBE19E-CB86-4B84-ACA4-0ACB373F8612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
